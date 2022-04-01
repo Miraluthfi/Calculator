@@ -7,4 +7,4 @@ Symbols used in this app: `% ÷ × − + =`
 
 <img src="Calculator.png" alt="calculator" style="margin-left: 15px;" />
 
-## Live demo : https://miraluthfi.github.io/Calculator
+### Live demo : https://miraluthfi.github.io/Calculator
